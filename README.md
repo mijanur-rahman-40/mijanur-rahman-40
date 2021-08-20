@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-I am Mijanur Rahman Raju, a fullstack developer, I work with Javascript frameworks like [ReactJS](https://reactjs.org/),[NodeJS](https://expressjs.com/),... . I can use and work with [Flutter](https://flutter.dev/) to create great applications.
+I am Mijanur Rahman Raju, a fullstack developer, I work with Javascript frameworks like [ReactJS](https://reactjs.org/),[NodeJS](https://expressjs.com/). I can use and work with [Flutter](https://flutter.dev/) to create great applications. And also worked with [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/) and Java with OOP(https://www.java.com/en/).
 
-**I love programming** 👋
+`I am currently learning Machine Learning, Artificial Intelligence and Deep Learning.`
+
+**I love programming** �
+
+--Ask me about any query....................
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijanur-rahman-40&layout=compact&hide=html" alt="mijanur-rahman-40" /></div>
 <br />
