@@ -10,7 +10,7 @@ I am Mijanur Rahman Raju, a fullstack developer, I work with Javascript framewor
 
 **Get in Touch**
 
-Twitter: https://twitter.com/Mijanur31416
+Twitter: https://twitter.com/mijanur_40
 
 Stack Overflow: https://stackoverflow.com/users/12371117/mijanur-rahman
 
