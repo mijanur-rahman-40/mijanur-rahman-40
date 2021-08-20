@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijanur-rahman-40&layout=compact&hide=html" alt="mijanur-rahman-40" /></div>
+<br />
+<br />
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=mijanur-rahman-40&show_icons=true" alt="mijanur-rahman-40" /></div>
+
 <!--
 **mijanur-rahman-40/mijanur-rahman-40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
