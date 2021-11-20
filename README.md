@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/> I'm Mijanur Rahman Raju!
 
-I am Mijanur Rahman Raju, a fullstack developer, I work with Javascript frameworks like [ReactJS](https://reactjs.org/),[NodeJS](https://expressjs.com/). I can use and work with [Flutter](https://flutter.dev/) to create great applications. And also worked with [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/) and Java(https://www.java.com/) with OOP, Android Material Design and Development.
+A Software Engineer specializing in Web and Mobile app Development.
 
-`I am currently learning Machine Learning, Artificial Intelligence and Deep Learning.`
+I work with Javascript frameworks like [ReactJS](https://reactjs.org/),[NodeJS](https://expressjs.com/). I can use and work with [Flutter](https://flutter.dev/) to create great applications. And also exprerienced with [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/) and Java(https://www.java.com/) with OOP, Android Material Design and Development.
 
-**I love programming** 
+
+**I love programming.** 
 
 --Ask me about any query....................
 
