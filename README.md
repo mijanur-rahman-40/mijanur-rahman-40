@@ -2,7 +2,7 @@
 
 A Software Engineer specializing in Web and Mobile app Development.
 
-I'm a developer with both front-end and backend focus. I've been building software professionally for over 2 years and I've loved every minute of it!
+I'm a developer with both front-end and backend focus. I've been building software professionally for over 2 years and I've loved every minute of it! and also very fond of open-source contributions.
 The technologies that I use: [ReactJS](https://reactjs.org/), [NodeJS](https://expressjs.com/), [Flutter](https://flutter.dev/), [MongoDB](https://www.mongodb.com/), [MySQL](https://www.mysql.com/) , [Java](https://www.java.com/en/) with OOP, Android Material Design and more.
 
 
