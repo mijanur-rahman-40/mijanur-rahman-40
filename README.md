@@ -129,22 +129,74 @@ The technologies that I use: [ReactJS](https://reactjs.org/), [NodeJS](https://e
   height="40px"
 />
 
+
 ### Get in Touch
 ---
 
-Email: <a href = "mailto: mijanurrahman31416@gmail.com">mijanurrahman31416@gmail.com</a>
+<a href="mailto: mijanurrahman31416@gmail.com">
+  <img
+ src="https://img.icons8.com/fluency/48/000000/gmail-new.png"
+  alt="Email"
+     title='Email'
+  width="40px"
+  height="40px"
+/>
+</a>
+<a href='https://stackoverflow.com/users/12371117/mijanur-rahman'>
+  <img
+  src="https://img.icons8.com/color/48/000000/stackoverflow.png"
+  alt="Stack Overflow"
+     title='Stack Overflow'
+  width="40px"
+  height="40px"
+/>
+</a>
+<a href='https://twitter.com/mijanur_40'>
+  <img
+  src="https://img.icons8.com/color/48/000000/twitter--v1.png"
+  alt="Twitter"
+     title='Twitter'
+  width="40px"
+  height="40px"
+/>
+</a>
+<a href='https://www.linkedin.com/in/mijanur-rahman-66b3b9160/'>
+  <img
+  src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"
+  alt="LinkedIn"
+     title='LinkedIn'
+  width="40px"
+  height="40px"
+/>
+</a>
+<a href='https://www.facebook.com/profile.php?id=100015201606035'>
+  <img
+  src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg"
+  alt="Facebook"
+     title='Facebook'
+  width="40px"
+  height="40px"
+/>
+</a>
+<a href='https://www.instagram.com/mijanur_rahman_raju/?hl=en'>
+  <img
+  src="https://img.icons8.com/fluency/48/000000/instagram-new.png"
+  alt="Instagram"
+     title='Instagram'
+  width="40px"
+  height="40px"
+/>
+</a>
 
-Twitter: https://twitter.com/mijanur_40
-
-Stack Overflow: https://stackoverflow.com/users/12371117/mijanur-rahman
-
-LinkedIn: https://www.linkedin.com/in/mijanur-rahman-66b3b9160/
-
-Facebook: https://www.facebook.com/profile.php?id=100015201606035
-
-Instagram: https://www.instagram.com/mijanur_rahman_raju/?hl=en
-
-Youtube: https://www.youtube.com/channel/UCOTs1QVSz867C5ywwhwiP_w
+<a href='https://www.youtube.com/channel/UCOTs1QVSz867C5ywwhwiP_w'>
+  <img
+  src="https://img.icons8.com/fluency/48/000000/youtube-play.png"
+  alt="Youtube"
+     title='Youtube'
+  width="40px"
+  height="40px"
+/>
+</a>
 
 ---
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mijanur-rahman-40&layout=compact&hide=html" alt="mijanur-rahman-40" /></div>
