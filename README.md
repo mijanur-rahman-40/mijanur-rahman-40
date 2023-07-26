@@ -9,6 +9,12 @@ The technologies that I use: [ReactJS](https://reactjs.org/), [NodeJS](https://e
 ### 🧰 Most beloved technologies
 ---
 <img
+  src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"
+  alt="Html logo"
+  width="40px"
+  height="40px"
+/>
+<img
   src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
   alt="Html logo"
   width="40px"
